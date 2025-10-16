@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.djowda.djowdaSeeds"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.djowda.djowdaSeeds"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
 
